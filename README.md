@@ -5,4 +5,4 @@ This repo is to get comfortable collaborating with my classmates. I’ve invited
    - [Tahira](https://github.com/tfarrer0/) - [Class Repo](https://github.com/tfarrer0/WEB250-Farrer-Bradley) -
    - [Elena](https://github.com/ElenaZelenina/) - [Class Repo](https://github.com/ElenaZelenina/web250-Zelenina) - ElenaZelenina was here 10:05 pm 1/19/20
    - [Kendall](https://github.com/KendallCheek/) - [Class Repo](https://github.com/KendallCheek/web250_kendallcheek) - KendallCheek was here 10:09 pm 1/19/20
-   - [Mariia](https://github.com/MariiaPa/) - [Class Repo](https://github.com/MariiaPa/web250-pavlenko) - 
+   - [Mariia](https://github.com/MariiaPa/) - [Class Repo](https://github.com/MariiaPa/web250-pavlenko) - Mariia Pavlenko was here at 11:20 am on 1/27/2020. 
